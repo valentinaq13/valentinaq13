@@ -13,8 +13,8 @@
 
 - EFSET Test [https://www.efset.org/cert/2M9D9q](https://www.efset.org/cert/2M9D9q)
 
--Temporal Portfolio https://porfolio-chi-navy.vercel.app/
-
+- Temporal Portfolio https://porfolio-chi-navy.vercel.app/
+- 
 - ⚡ Fun fact **I love palm trees**
 
 <h3 align="left">Connect with me:</h3>
