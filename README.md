@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentina</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **JSeeker project**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Typescript**
 
@@ -12,6 +12,8 @@
 - 📫 How to reach me **emeritavalentina@gmail.com / +549-0351-158574580**
 
 - EFSET Test [https://www.efset.org/cert/2M9D9q](https://www.efset.org/cert/2M9D9q)
+
+-Temporal Portfolio https://porfolio-chi-navy.vercel.app/
 
 - ⚡ Fun fact **I love palm trees**
 
