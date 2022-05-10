@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 💬 Ask me about anything you'd like!
-
 - 👯 I’m looking to collaborate on **new projects**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/valentina-quiroga-zalazar/](https://www.linkedin.com/in/valentina-quiroga-zalazar/)
+
+- 💬 Ask me about anything you'd like!
 
 - 📫 How to reach me **emeritavalentina@gmail.com / +549-0351-158574580**
 
