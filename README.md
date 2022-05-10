@@ -13,7 +13,7 @@
 
 - EFSET Test [https://www.efset.org/cert/2M9D9q](https://www.efset.org/cert/2M9D9q)
 
-- Temporary Portfolio https://valentina-quiroga.vercel.app/
+- Portfolio https://valentina-quiroga.vercel.app/
 
 - ⚡ Fun fact **I love palm trees**
 
