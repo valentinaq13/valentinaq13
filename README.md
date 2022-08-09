@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentina</h1>
 <h3 align="center">Fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on new projects to be add to **My Portfolio**
+- 🔭 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **new projects**
 
