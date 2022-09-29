@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valentina</h1>
 <h3 align="center">Fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently learning **Angular**
-
-- 👯 I’m looking to collaborate on **new projects**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/valentina-quiroga-zalazar/](https://www.linkedin.com/in/valentina-quiroga-zalazar/)
 
 - 💬 Ask me about anything you'd like!
